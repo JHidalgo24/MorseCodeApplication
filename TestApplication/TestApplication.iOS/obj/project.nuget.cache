@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zL+8eO2KE3KddROnpuFeyfy5wmXf7N1G/WFgnLcJD0tLd/qCoEwqacGw8AZfPiiQW+vTX0B+BS+XqvBuc/28XA==",
+  "success": true,
+  "projectFilePath": "/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication.iOS/TestApplication.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/justinhidalgo/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/justinhidalgo/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/justinhidalgo/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

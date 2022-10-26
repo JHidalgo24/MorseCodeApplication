@@ -1,0 +1,14 @@
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/bin/Debug/netstandard2.0/TestApplication.deps.json
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/bin/Debug/netstandard2.0/TestApplication.dll
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/bin/Debug/netstandard2.0/ref/TestApplication.dll
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/bin/Debug/netstandard2.0/TestApplication.pdb
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/obj/Debug/netstandard2.0/TestApplication.csproj.AssemblyReference.cache
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/obj/Debug/netstandard2.0/TestApplication.AssemblyInfoInputs.cache
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/obj/Debug/netstandard2.0/TestApplication.AssemblyInfo.cs
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/obj/Debug/netstandard2.0/TestApplication.csproj.CoreCompileInputs.cache
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/obj/Debug/netstandard2.0/TestApplication.dll
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/obj/Debug/netstandard2.0/ref/TestApplication.dll
+/Users/justinhidalgo/Projects/TestApplication/TestApplication/TestApplication/obj/Debug/netstandard2.0/TestApplication.pdb

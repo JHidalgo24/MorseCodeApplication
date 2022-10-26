@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="TestApplication.MainPage"
+>
+
+    <StackLayout>
+        <Frame BackgroundColor="AliceBlue">
+            <Label Text="Morse Code App"></Label>
+        </Frame>
+
+        <Label x:Name="LabelForWord" HorizontalTextAlignment="Center" FontSize="20" Text="" />
+
+        <Label x:Name="LabelForMorse" HorizontalTextAlignment="Center" FontSize="20" Text="" />
+        <BoxView HeightRequest="1" Color="LightGray" Margin="20, 10, 20, 10" />
+
+
+        <Label Text="" HorizontalTextAlignment="Center" Margin="20" FontSize="15" TextColor="Red" x:Name="morseError"></Label>
+        <Grid ColumnDefinitions="1*, 1*" RowDefinitions="1*, Auto">
+            <Button Pressed="Dash_Pressed" Grid.Row="0" Grid.Column="0" BackgroundColor="AliceBlue" Text="―" FontSize="20" />
+            <Button Pressed="Dot_Pressed" Grid.Row="0" Grid.Column="1" BackgroundColor="AliceBlue" Text="•" FontSize="20" />
+
+        </Grid>
+        <Button Pressed="Button_Pressed" BackgroundColor="AliceBlue" Text="Space"></Button>
+        <BoxView
+            HeightRequest="1"
+            Color="LightGray"
+            Margin="20, 10, 50, 10" />
+        <Grid ColumnDefinitions="1*, 1*" RowDefinitions="1*, Auto">
+            <Button Pressed="Clear_Morse" Grid.Row="0" Grid.Column="0" BackgroundColor="AliceBlue" Text="Reset Morse" FontSize="20" />
+            <Button Pressed="Clear_Word" Grid.Row="0" Grid.Column="1" BackgroundColor="AliceBlue" Text="Reset Word" FontSize="20" />
+
+        </Grid>
+
+
+        <Label HorizontalTextAlignment="Center" FontSize="20" Text="Pressing Space starts starts new letter"></Label>
+
+
+    </StackLayout>
+
+
+</ContentPage>
